@@ -1,0 +1,19 @@
+{
+  "name": "queues",
+  "version": "1.0.0",
+  "description": "create queues assignment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinaAvega/assignment.git"
+  },
+  "author": "Dina Musalam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinaAvega/assignment/issues"
+  },
+  "homepage": "https://github.com/DinaAvega/assignment#readme"
+}
